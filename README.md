@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Hassan Ashraf!
+Welcome to my GitHub profile.
 
-<!--
-**hassanashr/hassanashr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a double major in Computer Engineering and Mathematics in the American University in Cairo. I love virtually all what is there in computer science and pure mathematics! I have been also an undergraduate research assistant in the American University in Cairo, working on creating ethical path planning systems for autonomous vehicles using graph theory and linear temporal logic among others.
 
-Here are some ideas to get you started:
+I am especially interested in Machine Learning and often upload my solutions to Kaggle Challenges, LeetCode problems, Codeforces problems, programming projects, and solutions to self-studied books here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's Connect!
+LinkedIn: https://www.linkedin.com/in/hassan-ashraf-411944244/
+Email: hassan.ashraf@aucegypt.edu
+Whether you want to collaborate on an exciting project or just say hello, don't hesitate to reach out! Your feedback and suggestions are always welcome.
+
+Thanks for visiting my profile, and happy coding!
+
